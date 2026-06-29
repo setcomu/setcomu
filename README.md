@@ -8,7 +8,7 @@
 Técnico en Administración de Sistemas Informáticos en Red con especialización en Ciberseguridad. Experiencia en auditorías de seguridad, gestión de vulnerabilidades y revisión de infraestructuras corporativas. Interesado en el pentesting, la seguridad ofensiva y la protección de infraestructuras IT. Persona responsable, con capacidad de aprendizaje y motivación por seguir desarrollándose profesionalmente en el ámbito de la ciberseguridad.
 
 ## Projects
-<a href="https://github.com/setcomu/Explotation-Lab"><img src="https://raw.githubusercontent.com/setcomu/Explotation-Lab/main/banner.png" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/setcomu/Explotation-Lab"><img src="https://raw.githubusercontent.com/setcomu/Exploitation-Lab/main/banner.png" style="height: 60%; width:60%;"/></a>
 
 [![Explotation-Lab](https://img.shields.io/github/stars/setcomu/Exploitation-Lab?label=Exploitation%20Lab&style=social)](https://github.com/setcomu/Exploitation-Lab)
 

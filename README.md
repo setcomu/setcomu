@@ -5,9 +5,7 @@
 -->
 
 ## About me
-🛡️ **I'm a student of Administration of Systems and Networks**, with a professional focus on **Cybersecurity** and a passion for **Ethical Hacking**.
-
-🎯 **My goal:** To work as an **Ethical Hacker**, helping companies evaluate the security of their systems, identify vulnerabilities and propose effective solutions.
+Técnico en Administración de Sistemas Informáticos en Red con especialización en Ciberseguridad. Experiencia en auditorías de seguridad, gestión de vulnerabilidades y revisión de infraestructuras corporativas. Interesado en el pentesting, la seguridad ofensiva y la protección de infraestructuras IT. Persona responsable, con capacidad de aprendizaje y motivación por seguir desarrollándose profesionalmente en el ámbito de la ciberseguridad.
 
 ## Projects
 <a href="https://github.com/ElChe1/Explotation-Lab"><img src="https://raw.githubusercontent.com/ElChe1/Explotation-Lab/main/banner.png" style="height: 60%; width:60%;"/></a>
@@ -21,13 +19,12 @@
     
 
 ## 💻 Technologies & Tools:
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Oracle SQL](https://img.shields.io/badge/oracle%20SQL-F80000.svg?style=for-the-badge&logo=square&logoColor=white)
-![Nmap](https://img.shields.io/badge/nmap-%23008FBA.svg?style=for-the-badge&logo=eventstore&logoColor=white)
-![Metasploit](https://img.shields.io/badge/metasploit-%230167ff.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burpsuite](https://img.shields.io/badge/BurpSuite-FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Networking](https://img.shields.io/badge/networking-%2320232a.svg?style=for-the-badge&logo=n8n&logoColor=%2361DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Window Server](https://img.shields.io/badge/Windows%20Server-1c92dd?style=for-the-badge&logo=serverless&logoColor=white)
-![HTML / CSS](https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=for-the-badge&logo=htmx&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CrowdStrike Falcon](https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED2E38?style=for-the-badge&logo=qualys&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6A00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)

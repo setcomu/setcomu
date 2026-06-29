@@ -31,6 +31,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Window Server](https://img.shields.io/badge/Windows%20Server-1c92dd?style=for-the-badge&logo=serverless&logoColor=white)
 ![HTML / CSS](https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=for-the-badge&logo=htmx&logoColor=white)
-
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=setcomu&theme=react-dark&bg_color=20232a&hide_border=true)

@@ -10,7 +10,7 @@ Técnico en Administración de Sistemas Informáticos en Red con especializació
 ## Projects
 <a href="https://github.com/setcomu/Explotation-Lab"><img src="https://raw.githubusercontent.com/setcomu/Explotation-Lab/main/banner.png" style="height: 60%; width:60%;"/></a>
 
-[![Explotation-Lab](https://img.shields.io/github/stars/ElChe1/Explotation-Lab?label=Explotation%20Lab&style=social)](https://github.com/ElChe1/Explotation-Lab)
+[![Explotation-Lab](https://img.shields.io/github/stars/setcomu/Exploitation-Lab?label=Exploitation%20Lab&style=social)](https://github.com/setcomu/Exploitation-Lab)
 
 ## Contact Me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Set_Cobler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/secomu)
